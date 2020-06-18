@@ -14,3 +14,7 @@ LEDs have a strict need for the right voltage and the right current. In order to
 
 ## Schematics
 
+![alt text](https://github.com/rohansuri1996/LED-configuration-system/blob/master/Circuit%20Diagram.png)
+
+![alt text](https://github.com/rohansuri1996/LED-configuration-system/blob/master/schematic.png)
+
