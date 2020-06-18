@@ -1,0 +1,2 @@
+# LED-configuration-system
+LEDs have a strict need for the right voltage and the right current. In order to accomplish that, the correct series resistor has to be selected by calculation. Assume a set of different LEDs, all working with a forward current of around 20mA. Your Arduino-based device should take on any LED and measure the operation point voltage. In the next steps, information about the LED, including recommendations for series resistors at different source voltages and other useful usage recommendations and values are to be displayed.
